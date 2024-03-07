@@ -16,9 +16,9 @@ global.xaxa = 'kana'
 global.suittag = ['966596460238', '966596460238'];
 global.prems = ['966596460238', '966596460238'];
 
-global.packname = 'Nezuko🧸 ';
-global.author = '★Nezuko🌺★';
-global.wm = '★Nezuko BOT★';
+global.packname = '★𝐷.𝑁.𝑺-𝐵𝛩𝑇 ⛩️ ';
+global.author = '★𝐷.𝑁.𝑺-𝐵𝛩𝑇 ⛩️';
+global.wm = '★𝐷.𝑁.𝑺-𝐵𝛩𝑇⛩️';
 global.titulowm = ' Nezuko ';
 global.titulowm2 = ` Nezuko `
 global.igfg = ' Nezuko ';
