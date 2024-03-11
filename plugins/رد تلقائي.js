@@ -107,8 +107,7 @@ let handler = m => m;
             }else if (/^بروس|واين$/i.test(m.text)) { 
      responses = [ 
        '*سيدي بروس واين🙏*',  
-   
-    }
+     }
    if (responses) { 
      let randomIndex = Math.floor(Math.random() * responses.length); 
      conn.reply(m.chat, responses[randomIndex], m); 
