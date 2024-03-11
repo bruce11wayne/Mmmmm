@@ -117,7 +117,6 @@ let handler = m => m;
      responses = [ 
        '*سيدي بروس واين🙏*',  
      ];
-   
      }
    if (responses) { 
      let randomIndex = Math.floor(Math.random() * responses.length); 
