@@ -34,7 +34,7 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(900) 
   const taguser = '@' +  m.sender.split('@s.whatsapp.net')[0];
-let str = `BRUCE-𝐵𝛩𝑇 
+let str = `{⛩️𝐵𝑅𝑈𝐶𝐸–𝐵𝛩𝑇⛩️}
 
  *༺═━━═⊱╊⊰⛩️⊱╉⊰═━━═༻*
 *❮ ◈┇قائمة اوامر البوت┇𝑁𝐸𝑍𝑈𝐾𝛩◈❯*
