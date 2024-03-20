@@ -4,7 +4,7 @@ global.dfail('admin', m, conn)
 throw false
 }//غير ڤينوم و حط اسم بوتك
 let pesan = args.join` `
-let oi = `*𓆲الرساله:* ${pesan}`
+let oi = `*❈الرساله:* ${pesan}`
 let teks =`『𝐵𝑅𝑈𝐶𝐸🦇𝑊𝐴𝑌𝑁𝐸』\n\n ${oi}\n\n*🗡┇الجروب :⇣*\n`
 for (let mem of participants) {
 teks += `*تفاعل ↫* @${mem.id.split('@')[0]}\n`}
