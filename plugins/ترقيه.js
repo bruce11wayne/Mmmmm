@@ -23,7 +23,7 @@ var user = number + '@s.whatsapp.net'
 conn.groupParticipantsUpdate(m.chat, [user], 'promote')
 conn.reply(m.chat, ``, m)
 }}
-handler.help = ['*201063720595xxx*','*@اسم المستخدم*','*محادثة المستجيب*'].map(v => 'promote ' + v)
+handler.help = ['*966596460238xxx*','*@اسم المستخدم*','*محادثة المستجيب*'].map(v => 'promote ' + v)
 handler.tags = ['group']
 handler.command = /^(ترقيه)$/i
 handler.group = true
